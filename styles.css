@@ -1,0 +1,107 @@
+.first_screen {
+    text-align: center;
+    background: url(image/background.png) no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.first_screen h1 {
+    padding-top: 15%;
+    font-family: "Exo", sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+}
+
+.try-now {
+    margin-top: 40px;
+    width: 192px;
+    height: 52px;
+    border: none;
+    border-radius: 3px;
+    background-color: #ff6d6d;
+    color: #ffffff;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.first_screen p {
+    font-family: "Exo", sans-serif;
+    font-size: 14px;
+    color: #282828;
+    margin-top: 15px;
+}
+
+.new_design h2{
+    text-transform: uppercase;
+    color: #ff6d6d;
+    font-size: 16px;
+    width: 119px;
+    height: 13px;
+    margin-top: 190px;
+    margin-left: 151px;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    line-height: 50px;
+    /*letter-spacing: 3.2px;*/
+}
+
+.new_design p{
+    font-size: 40px;
+    width: 532px;
+    height: 93px;
+    margin-top: 16px;
+    margin-left: 149px;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    line-height: 50px;
+    /*letter-spacing: 1.6px;*/
+}
+
+.colortext{
+    color: #ff6d6d;
+}
+
+#text{
+    font-size: 16px;
+    width: 571px;
+    height: 200px;
+    margin-top: 45px;
+    margin-left: 149px;
+    font-family: "Exo", sans-serif;
+    font-weight: 500;
+    line-height: 26px;
+    color: #282828;
+    opacity: .66;
+    /*letter-spacing: 0.64px; */
+}
+
+.template-gray{
+    width: 570px;
+    height: 726px;
+    background-color: #ededed;
+    position: absolute;
+    top: 812px;
+    left: 870px;
+
+}
+
+.gray{
+    width: 553px;
+    height: 707px;
+    position: absolute;
+    top: 812px;
+    left: 870px;
+}
+
+.triangle{
+    width: 570px;
+    height: 726px;
+    position: absolute;
+    top: 812px;
+    left: 870px;
+}
+
+
+
+
+
